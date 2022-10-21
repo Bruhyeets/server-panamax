@@ -1,0 +1,38 @@
+{
+	"close_socket_after": 12000,
+	"max_sockets_per_ip": 100,
+	"max_total_sockets": 256,
+	"allow_banned_ips": true,
+	"messages": {
+		"all": [
+			{
+				"name": "default",
+				"frames": [ 
+					"frames.frame1",
+					"frames.frame2",
+					"frames.frame3",
+					"frames.frame4"
+				],
+				"interval": 800,
+				"random": true,
+				"shuffle": false,
+				"timeout": 500,
+				"weight": 1.0,
+				"next": "default2"
+			},
+			{
+				"name": "default2",
+				"frames": [ 
+					"frames.frame5",
+					"frames.frame6",
+				],
+				"interval": 800,
+				"random": true,
+				"shuffle": false,
+				"timeout": 500,
+				"weight": 1.0,
+				"next": "default"
+			}
+		]
+	}
+}

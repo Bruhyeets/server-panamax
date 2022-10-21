@@ -1,0 +1,56 @@
+{
+	"frame1": { 
+		"icon": "servericon2.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"players": "default",
+		"text0": "&6&nOfficial&r &7KHS &7MC &7Server",
+		"text1": "&5an alternative to the &dbortz &5smp!"
+	},
+	"frame2": { 
+		"icon": "servericon2.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"players": "default",
+		"text0": "&7Official &6&nKHS&r &7MC &7Server",
+		"text1": "&5an alternative to the &5bortz &dsmp!"
+	},
+	"frame3": { 
+		"icon": "servericon2.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"players": "default",
+		"text0": "&7Official &7KHS &6&nMC&r &7Server",
+		"text1": "&5an alternative to the &dbortz &5smp!"
+	},
+	"frame4": { 
+		"icon": "servericon2.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"players": "default",
+		"text0": "&7Official &7KHS &7MC &6&nServer&r",
+		"text1": "&5an alternative to the &5bortz &dsmp!"
+	},
+	"frame5": { 
+		"icon": "hendricks.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"players": "default",
+		"text0": "&7Official &7KHS &6&nMC&r &7Server",
+		"text1": "&cmike &ehendrussy"
+	},
+	"frame6": { 
+		"icon": "hendricks.png",
+		"icon_spriteX": 1,
+		"icon_spriteY": 0,
+		"online": "default",
+		"players": "default",
+		"text0": "&7Official &6KHS &7MC &6&nServer&r",
+		"text1": "&emike &chendrussy"
+	}
+}

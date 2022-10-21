@@ -1,0 +1,969 @@
+13:48:22 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+13:48:22 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+13:48:22 [INFO] Enabled BungeeCord version unknown
+13:48:22 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:48:22 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:48:22 [INFO] Listening websockets on /0.0.0.0:25565
+13:48:22 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:48:22 [INFO] Reload complete
+13:48:22 [INFO] Listening on /127.11.0.1:63773
+13:48:32 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+13:48:32 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+13:48:32 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+13:48:32 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+13:48:32 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+13:48:32 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+13:48:32 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+13:48:32 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+13:48:32 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+13:48:32 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+13:48:32 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+13:48:32 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+13:48:32 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+13:48:32 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+13:48:32 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+13:48:32 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+13:48:32 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+13:48:32 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+13:48:32 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+13:48:32 [SEVERE] 	... 11 more
+13:48:46 [INFO] §cCommand not found
+13:48:49 [INFO] §cCommand not found
+13:48:50 [INFO] §cCommand not found
+13:51:16 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+13:51:16 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+13:51:16 [INFO] Enabled BungeeCord version unknown
+13:51:16 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:51:16 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:51:16 [INFO] Listening websockets on /0.0.0.0:25565
+13:51:16 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:51:16 [INFO] Listening on /127.11.0.1:63660
+13:51:16 [INFO] Reload complete
+13:51:27 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+13:51:27 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+13:51:27 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+13:51:27 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+13:51:27 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+13:51:27 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+13:51:27 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+13:51:27 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+13:51:27 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+13:51:27 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+13:51:27 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+13:51:27 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+13:51:27 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+13:51:27 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+13:51:27 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+13:51:27 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+13:51:27 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+13:51:27 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+13:51:27 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+13:51:27 [SEVERE] 	... 11 more
+13:51:41 [INFO] [EaglYeeler66] <-> InitialHandler has connected
+13:51:41 [INFO] Player 'EaglYeeler66' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:51:41 [INFO] Player 'EaglYeeler66' [/127.0.0.1] is using an offline download
+13:51:41 [INFO] [EaglYeeler66] <-> ServerConnector [lobby] has connected
+13:51:58 [INFO] [EaglYeeler66] -> UpstreamBridge has disconnected
+13:51:58 [INFO] [EaglYeeler66] <-> DownstreamBridge <-> [lobby] has disconnected
+13:52:58 [INFO] [EaglYeeler66] <-> InitialHandler has connected
+13:52:58 [INFO] Player 'EaglYeeler66' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:52:58 [INFO] Player 'EaglYeeler66' [/127.0.0.1] is using an offline download
+13:52:58 [INFO] [EaglYeeler66] <-> ServerConnector [lobby] has connected
+13:54:49 [INFO] [EaglYeeler66] -> UpstreamBridge has disconnected
+13:54:49 [INFO] [EaglYeeler66] <-> DownstreamBridge <-> [lobby] has disconnected
+13:55:17 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+13:55:17 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+13:55:17 [INFO] Enabled BungeeCord version unknown
+13:55:18 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:55:18 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:55:18 [INFO] Listening websockets on /0.0.0.0:25565
+13:55:18 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:55:18 [INFO] Reload complete
+13:55:18 [INFO] Listening on /127.11.0.1:60096
+13:55:29 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+13:55:29 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+13:55:29 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+13:55:29 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+13:55:29 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+13:55:29 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+13:55:29 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+13:55:29 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+13:55:29 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+13:55:29 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+13:55:29 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+13:55:29 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+13:55:29 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+13:55:29 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+13:55:29 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+13:55:29 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+13:55:29 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+13:55:29 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+13:55:29 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+13:55:29 [SEVERE] 	... 11 more
+13:58:20 [INFO] §cCommand not found
+13:59:14 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+13:59:14 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+13:59:14 [INFO] Enabled BungeeCord version unknown
+13:59:15 [INFO] §a[EaglerMOTD] Loaded 1 messages for 0.0.0.0:25565
+13:59:15 [INFO] §a[EaglerMOTD] Loaded 6 query types
+13:59:15 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+13:59:15 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:59:15 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:59:15 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+13:59:15 [INFO] Listening websockets on /0.0.0.0:25565
+13:59:15 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:59:15 [INFO] Reload complete
+13:59:15 [INFO] Listening on /127.11.0.1:63296
+13:59:26 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+13:59:26 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+13:59:26 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+13:59:26 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+13:59:26 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+13:59:26 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+13:59:26 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+13:59:26 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+13:59:26 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+13:59:26 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+13:59:26 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+13:59:26 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+13:59:26 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+13:59:26 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+13:59:26 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+13:59:26 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+13:59:26 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+13:59:26 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+13:59:26 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+13:59:26 [SEVERE] 	... 11 more
+14:07:43 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:07:43 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:07:43 [INFO] Enabled BungeeCord version unknown
+14:07:43 [INFO] §a[EaglerMOTD] Loaded 1 messages for 0.0.0.0:25565
+14:07:43 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:07:43 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:07:43 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:07:43 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:07:43 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:07:43 [INFO] Listening websockets on /0.0.0.0:25565
+14:07:43 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:07:43 [INFO] Listening on /127.11.0.1:54473
+14:07:43 [INFO] Reload complete
+14:07:54 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:07:54 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:07:54 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:07:54 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:07:54 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:07:54 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:07:54 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:07:54 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:07:54 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:07:54 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:07:54 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:07:54 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:07:54 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:07:54 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:07:54 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:07:54 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:07:54 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:07:54 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:07:54 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:07:54 [SEVERE] 	... 11 more
+14:12:57 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:12:57 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:12:57 [INFO] Enabled BungeeCord version unknown
+14:12:58 [INFO] §a[EaglerMOTD] Loaded 1 messages for 0.0.0.0:25565
+14:12:58 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:12:58 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:12:58 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:12:58 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:12:58 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:12:58 [INFO] Listening websockets on /0.0.0.0:25565
+14:12:58 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:12:58 [INFO] Listening on /127.11.0.1:63645
+14:12:58 [INFO] Reload complete
+14:12:59 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:12:59 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:12:59 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect0(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+14:12:59 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+14:12:59 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:12:59 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:12:59 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:12:59 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:12:59 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:12:59 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:12:59 [SEVERE] 	... 15 more
+14:14:14 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:14:14 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:14:14 [INFO] Enabled BungeeCord version unknown
+14:14:15 [INFO] §a[EaglerMOTD] Loaded 1 messages for 0.0.0.0:25565
+14:14:15 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:14:15 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:14:15 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:14:15 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:14:15 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:14:15 [INFO] Listening websockets on /0.0.0.0:25565
+14:14:15 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:14:15 [INFO] Listening on /127.11.0.1:63691
+14:14:15 [INFO] Reload complete
+14:14:25 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:14:25 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:14:25 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:14:25 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:14:25 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:14:25 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:14:25 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:14:25 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:14:25 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:14:25 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:14:25 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:14:25 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:14:25 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:14:25 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:14:25 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:14:25 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:14:25 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:14:25 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:14:25 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:14:25 [SEVERE] 	... 11 more
+14:14:35 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+14:14:35 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:14:35 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:14:35 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:14:35 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:14:35 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:14:35 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:14:35 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:14:35 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:14:35 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:14:35 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:14:35 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:14:35 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:14:35 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:14:35 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:14:35 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:14:35 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:14:35 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:14:35 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:14:35 [SEVERE] 	... 11 more
+14:19:01 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:19:01 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:19:01 [INFO] Enabled BungeeCord version unknown
+14:19:02 [INFO] §a[EaglerMOTD] Loaded 1 messages for 0.0.0.0:25565
+14:19:02 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:19:02 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:19:02 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:19:02 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:19:02 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:19:02 [INFO] Listening websockets on /0.0.0.0:25565
+14:19:02 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:19:02 [INFO] Reload complete
+14:19:02 [INFO] Listening on /127.11.0.1:54967
+14:19:13 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:19:13 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:19:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:19:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:19:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:19:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:19:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:19:13 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:19:13 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:19:13 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:19:13 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:19:13 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:19:13 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:19:13 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:19:13 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:19:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:19:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:19:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:19:13 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:19:13 [SEVERE] 	... 11 more
+14:19:23 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+14:19:23 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:19:23 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:19:23 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:19:23 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:19:23 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:19:23 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:19:23 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:19:23 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:19:23 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:19:23 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:19:23 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:19:23 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:19:23 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:19:23 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:19:23 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:19:23 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:19:23 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:19:23 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:19:23 [SEVERE] 	... 11 more
+14:20:54 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:20:54 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:20:54 [INFO] Enabled BungeeCord version unknown
+14:20:55 [INFO] §a[EaglerMOTD] Loaded 1 messages for 0.0.0.0:25565
+14:20:55 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:20:55 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:20:55 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:20:55 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:20:55 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:20:55 [INFO] Listening websockets on /0.0.0.0:25565
+14:20:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:20:55 [INFO] Listening on /127.11.0.1:60595
+14:20:55 [INFO] Reload complete
+14:21:03 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:21:03 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:21:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:21:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:21:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:21:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:21:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:21:03 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:21:03 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:21:03 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:21:03 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:21:03 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:21:03 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:21:03 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:21:03 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:21:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:21:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:21:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:21:03 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:21:03 [SEVERE] 	... 11 more
+14:21:13 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+14:21:13 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:21:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:21:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:21:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:21:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:21:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:21:13 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:21:13 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:21:13 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:21:13 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:21:13 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:21:13 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:21:13 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:21:13 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:21:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:21:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:21:13 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:21:13 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:21:13 [SEVERE] 	... 11 more
+14:27:39 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:27:39 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:27:39 [INFO] Enabled BungeeCord version unknown
+14:27:40 [SEVERE] [EaglerMOTD] Could not load!
+14:27:40 [SEVERE] org.json.JSONException: Expected a ',' or ']' at 430 [character 4 line 23]
+14:27:40 [SEVERE] 	at org.json.JSONTokener.syntaxError(JSONTokener.java:521)
+14:27:40 [SEVERE] 	at org.json.JSONArray.<init>(JSONArray.java:145)
+14:27:40 [SEVERE] 	at org.json.JSONTokener.nextValue(JSONTokener.java:445)
+14:27:40 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:262)
+14:27:40 [SEVERE] 	at org.json.JSONTokener.nextValue(JSONTokener.java:438)
+14:27:40 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:262)
+14:27:40 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:421)
+14:27:40 [SEVERE] 	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.loadConfiguration(EaglerMOTD.java:132)
+14:27:40 [SEVERE] 	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.onLoad(EaglerMOTD.java:302)
+14:27:40 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:158)
+14:27:40 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.loadAndEnablePlugins(PluginManager.java:103)
+14:27:40 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:254)
+14:27:40 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:27:40 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:27:40 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:27:40 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:27:40 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:27:40 [INFO] Listening websockets on /0.0.0.0:25565
+14:27:40 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:27:40 [INFO] Listening on /127.11.0.1:52571
+14:27:40 [INFO] Reload complete
+14:27:50 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:27:50 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:27:50 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:27:50 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:27:50 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:27:50 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:27:50 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:27:50 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:27:50 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:27:50 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:27:50 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:27:50 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:27:50 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:27:50 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:27:50 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:27:50 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:27:50 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:27:50 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:27:50 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:27:50 [SEVERE] 	... 11 more
+14:28:01 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+14:28:01 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:28:01 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:28:01 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:28:01 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:28:01 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:28:01 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:28:01 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:28:01 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:28:01 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:28:01 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:28:01 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:28:01 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:28:01 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:28:01 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:28:01 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:28:01 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:28:01 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:28:01 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:28:01 [SEVERE] 	... 11 more
+14:29:41 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:29:41 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:29:41 [INFO] Enabled BungeeCord version unknown
+14:29:42 [SEVERE] [EaglerMOTD] Could not load!
+14:29:42 [SEVERE] org.json.JSONException: Expected a ',' or ']' at 430 [character 4 line 23]
+14:29:42 [SEVERE] 	at org.json.JSONTokener.syntaxError(JSONTokener.java:521)
+14:29:42 [SEVERE] 	at org.json.JSONArray.<init>(JSONArray.java:145)
+14:29:42 [SEVERE] 	at org.json.JSONTokener.nextValue(JSONTokener.java:445)
+14:29:42 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:262)
+14:29:42 [SEVERE] 	at org.json.JSONTokener.nextValue(JSONTokener.java:438)
+14:29:42 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:262)
+14:29:42 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:421)
+14:29:42 [SEVERE] 	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.loadConfiguration(EaglerMOTD.java:132)
+14:29:42 [SEVERE] 	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.onLoad(EaglerMOTD.java:302)
+14:29:42 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:158)
+14:29:42 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.loadAndEnablePlugins(PluginManager.java:103)
+14:29:42 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:254)
+14:29:42 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:29:42 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:29:42 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:29:42 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:29:42 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:29:42 [INFO] Listening websockets on /0.0.0.0:25565
+14:29:42 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:29:42 [INFO] Listening on /127.11.0.1:63747
+14:29:42 [INFO] Reload complete
+14:29:52 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:29:52 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:29:52 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:29:52 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:29:52 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:29:52 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:29:52 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:29:52 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:29:52 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:29:52 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:29:52 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:29:52 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:29:52 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:29:52 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:29:52 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:29:52 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:29:52 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:29:52 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:29:52 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:29:52 [SEVERE] 	... 11 more
+14:30:02 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+14:30:02 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:30:02 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:30:02 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:30:02 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:30:02 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:30:02 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:30:02 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:30:02 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:30:02 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:30:02 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:30:02 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:30:02 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:30:02 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:30:02 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:30:02 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:30:02 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:30:02 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:30:02 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:30:02 [SEVERE] 	... 11 more
+14:30:02 [SEVERE] java.lang.NullPointerException
+14:30:02 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketListener.onOpen(WebSocketListener.java:260)
+14:30:02 [SEVERE] 	at org.java_websocket.server.WebSocketServer.onWebsocketOpen(WebSocketServer.java:685)
+14:30:02 [SEVERE] 	at org.java_websocket.WebSocketImpl.open(WebSocketImpl.java:716)
+14:30:02 [SEVERE] 	at org.java_websocket.WebSocketImpl.decodeHandshake(WebSocketImpl.java:286)
+14:30:02 [SEVERE] 	at org.java_websocket.WebSocketImpl.decode(WebSocketImpl.java:219)
+14:30:02 [SEVERE] 	at org.java_websocket.server.WebSocketServer$WebSocketWorker.doDecode(WebSocketServer.java:1046)
+14:30:02 [SEVERE] 	at org.java_websocket.server.WebSocketServer$WebSocketWorker.run(WebSocketServer.java:1028)
+14:30:45 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:30:45 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:30:45 [INFO] Enabled BungeeCord version unknown
+14:30:45 [INFO] §c[EaglerMOTD] File 'frames.json' could not be loaded: org.json.JSONException: Expected a ',' or '}' at 988 [character 2 line 42]
+14:30:45 [INFO] §c[EaglerMOTD] File 'frames.json' could not be loaded: org.json.JSONException: Expected a ',' or '}' at 988 [character 2 line 42]
+14:30:45 [INFO] §c[EaglerMOTD] File 'frames.json' could not be loaded: org.json.JSONException: Expected a ',' or '}' at 988 [character 2 line 42]
+14:30:45 [INFO] §c[EaglerMOTD] File 'frames.json' could not be loaded: org.json.JSONException: Expected a ',' or '}' at 988 [character 2 line 42]
+14:30:45 [INFO] §c[EaglerMOTD] Message 'all' has no frames!
+14:30:45 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:30:45 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:30:45 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:30:45 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:30:45 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:30:45 [INFO] Listening websockets on /0.0.0.0:25565
+14:30:46 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:30:46 [INFO] Listening on /127.11.0.1:63789
+14:30:46 [INFO] Reload complete
+14:30:56 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:30:56 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:30:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:30:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:30:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:30:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:30:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:30:56 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:30:56 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:30:56 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:30:56 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:30:56 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:30:56 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:30:56 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:30:56 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:30:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:30:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:30:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:30:56 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:30:56 [SEVERE] 	... 11 more
+14:31:06 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+14:31:06 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:31:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:31:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:31:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:31:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:31:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:31:06 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:31:06 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:31:06 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:31:06 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:31:06 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:31:06 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:31:06 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:31:06 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:31:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:31:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:31:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:31:06 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:31:06 [SEVERE] 	... 11 more
+14:31:57 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:31:57 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:31:57 [INFO] Enabled BungeeCord version unknown
+14:31:57 [SEVERE] [EaglerMOTD] Could not load!
+14:31:57 [SEVERE] org.json.JSONException: Expected a ',' or ']' at 430 [character 4 line 23]
+14:31:57 [SEVERE] 	at org.json.JSONTokener.syntaxError(JSONTokener.java:521)
+14:31:57 [SEVERE] 	at org.json.JSONArray.<init>(JSONArray.java:145)
+14:31:57 [SEVERE] 	at org.json.JSONTokener.nextValue(JSONTokener.java:445)
+14:31:57 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:262)
+14:31:57 [SEVERE] 	at org.json.JSONTokener.nextValue(JSONTokener.java:438)
+14:31:57 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:262)
+14:31:57 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:421)
+14:31:57 [SEVERE] 	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.loadConfiguration(EaglerMOTD.java:132)
+14:31:57 [SEVERE] 	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.onLoad(EaglerMOTD.java:302)
+14:31:57 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:158)
+14:31:57 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.loadAndEnablePlugins(PluginManager.java:103)
+14:31:57 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:254)
+14:31:57 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:31:57 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:31:57 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:31:57 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:31:57 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:31:57 [INFO] Listening websockets on /0.0.0.0:25565
+14:31:57 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:31:57 [INFO] Listening on /127.11.0.1:50021
+14:31:57 [INFO] Reload complete
+14:32:08 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:32:08 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:32:08 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:32:08 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:32:08 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:32:08 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:32:08 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:32:08 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:32:08 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:32:08 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:32:08 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:32:08 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:32:08 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:32:08 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:32:08 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:32:08 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:32:08 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:32:08 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:32:08 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:32:08 [SEVERE] 	... 11 more
+14:32:18 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+14:32:18 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:32:18 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:32:18 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:32:18 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:32:18 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:32:18 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:32:18 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:32:18 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:32:18 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:32:18 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:32:18 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:32:18 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:32:18 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:32:18 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:32:18 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:32:18 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:32:18 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:32:18 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:32:18 [SEVERE] 	... 11 more
+14:33:02 [INFO] §c[EaglerMOTD] Failed to reload! org.json.JSONException: Expected a ',' or ']' at 430 [character 4 line 23]
+14:33:02 [SEVERE] org.json.JSONException: Expected a ',' or ']' at 430 [character 4 line 23]
+14:33:02 [SEVERE] 	at org.json.JSONTokener.syntaxError(JSONTokener.java:521)
+14:33:02 [SEVERE] 	at org.json.JSONArray.<init>(JSONArray.java:145)
+14:33:02 [SEVERE] 	at org.json.JSONTokener.nextValue(JSONTokener.java:445)
+14:33:02 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:262)
+14:33:02 [SEVERE] 	at org.json.JSONTokener.nextValue(JSONTokener.java:438)
+14:33:02 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:262)
+14:33:02 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:421)
+14:33:02 [SEVERE] 	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.loadConfiguration(EaglerMOTD.java:132)
+14:33:02 [SEVERE] 	at net.lax1dude.eaglercraft.eaglermotd.CommandMOTDReload.execute(CommandMOTDReload.java:19)
+14:33:02 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.dispatchCommand(PluginManager.java:83)
+14:33:02 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:232)
+14:34:11 [INFO] §c[EaglerMOTD] Failed to reload! org.json.JSONException: Expected a ',' or ']' at 430 [character 4 line 23]
+14:34:11 [SEVERE] org.json.JSONException: Expected a ',' or ']' at 430 [character 4 line 23]
+14:34:11 [SEVERE] 	at org.json.JSONTokener.syntaxError(JSONTokener.java:521)
+14:34:11 [SEVERE] 	at org.json.JSONArray.<init>(JSONArray.java:145)
+14:34:11 [SEVERE] 	at org.json.JSONTokener.nextValue(JSONTokener.java:445)
+14:34:11 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:262)
+14:34:11 [SEVERE] 	at org.json.JSONTokener.nextValue(JSONTokener.java:438)
+14:34:11 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:262)
+14:34:11 [SEVERE] 	at org.json.JSONObject.<init>(JSONObject.java:421)
+14:34:11 [SEVERE] 	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.loadConfiguration(EaglerMOTD.java:132)
+14:34:11 [SEVERE] 	at net.lax1dude.eaglercraft.eaglermotd.CommandMOTDReload.execute(CommandMOTDReload.java:19)
+14:34:11 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.dispatchCommand(PluginManager.java:83)
+14:34:11 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:232)
+14:34:20 [INFO] [EaglYeeler66] <-> InitialHandler has connected
+14:34:20 [INFO] Player 'EaglYeeler66' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:34:20 [INFO] Player 'EaglYeeler66' [/127.0.0.1] is using an offline download
+14:34:20 [INFO] [EaglYeeler66] <-> ServerConnector [lobby] has connected
+14:35:02 [INFO] [EaglYeeler66] -> UpstreamBridge has disconnected
+14:35:02 [INFO] [EaglYeeler66] <-> DownstreamBridge <-> [lobby] has disconnected
+14:36:42 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:36:42 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:36:42 [INFO] Enabled BungeeCord version unknown
+14:36:42 [INFO] §a[EaglerMOTD] Loaded 2 messages for 0.0.0.0:25565
+14:36:42 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:36:42 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:36:42 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:36:42 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:36:42 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:36:42 [INFO] Listening websockets on /0.0.0.0:25565
+14:36:43 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:36:43 [INFO] Listening on /127.11.0.1:56024
+14:36:43 [INFO] Reload complete
+14:36:53 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:36:53 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:36:53 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:36:53 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:36:53 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:36:53 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:36:53 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:36:53 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:36:53 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:36:53 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:36:53 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:36:53 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:36:53 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:36:53 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:36:53 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:36:53 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:36:53 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:36:53 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:36:53 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:36:53 [SEVERE] 	... 11 more
+14:37:03 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+14:37:03 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:37:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:37:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:37:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:37:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:37:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:37:03 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:37:03 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:37:03 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:37:03 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:37:03 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:37:03 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:37:03 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:37:03 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:37:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:37:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:37:03 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:37:03 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:37:03 [SEVERE] 	... 11 more
+14:37:03 [SEVERE] java.lang.NullPointerException
+14:37:03 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketListener.onOpen(WebSocketListener.java:260)
+14:37:03 [SEVERE] 	at org.java_websocket.server.WebSocketServer.onWebsocketOpen(WebSocketServer.java:685)
+14:37:03 [SEVERE] 	at org.java_websocket.WebSocketImpl.open(WebSocketImpl.java:716)
+14:37:03 [SEVERE] 	at org.java_websocket.WebSocketImpl.decodeHandshake(WebSocketImpl.java:286)
+14:37:03 [SEVERE] 	at org.java_websocket.WebSocketImpl.decode(WebSocketImpl.java:219)
+14:37:03 [SEVERE] 	at org.java_websocket.server.WebSocketServer$WebSocketWorker.doDecode(WebSocketServer.java:1046)
+14:37:03 [SEVERE] 	at org.java_websocket.server.WebSocketServer$WebSocketWorker.run(WebSocketServer.java:1028)
+14:37:44 [INFO] §a[EaglerMOTD] Loaded 2 messages for 0.0.0.0:25565
+14:37:44 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:38:15 [INFO] §a[EaglerMOTD] Loaded 1 messages for 0.0.0.0:25565
+14:38:15 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:40:06 [INFO] §a[EaglerMOTD] Loaded 1 messages for 0.0.0.0:25565
+14:40:06 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:40:11 [INFO] [capyBARA] <-> InitialHandler has connected
+14:40:11 [INFO] Player 'capyBARA' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:40:11 [INFO] Player 'capyBARA' [/127.0.0.1] is using an offline download
+14:40:11 [INFO] [capyBARA] <-> ServerConnector [lobby] has connected
+14:40:52 [INFO] [capyBARA] -> UpstreamBridge has disconnected
+14:40:52 [INFO] [capyBARA] <-> DownstreamBridge <-> [lobby] has disconnected
+14:41:16 [INFO] §a[EaglerMOTD] Loaded 2 messages for 0.0.0.0:25565
+14:41:16 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:41:45 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:41:45 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:41:45 [INFO] Enabled BungeeCord version unknown
+14:41:45 [INFO] §a[EaglerMOTD] Loaded 2 messages for 0.0.0.0:25565
+14:41:45 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:41:45 [INFO] Loaded plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:41:45 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:41:45 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:41:45 [INFO] Enabled plugin EaglerMOTD version 1.0.4 by LAX1DUDE
+14:41:45 [INFO] Listening websockets on /0.0.0.0:25565
+14:41:45 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:41:45 [INFO] Reload complete
+14:41:45 [INFO] Listening on /127.11.0.1:52559
+14:41:56 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+14:41:56 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:41:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:41:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:41:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:41:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:41:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:41:56 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:41:56 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:41:56 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:41:56 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:41:56 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:41:56 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:41:56 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:41:56 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:41:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:41:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:41:56 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:41:56 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:41:56 [SEVERE] 	... 11 more
+14:42:06 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+14:42:06 [SEVERE] javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+14:42:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(Unknown Source)
+14:42:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:42:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:42:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:42:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:42:06 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:42:06 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:42:06 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:42:06 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:42:06 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+14:42:06 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+14:42:06 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:42:06 [SEVERE] Caused by: java.io.EOFException: SSL peer shut down incorrectly
+14:42:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:42:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:42:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:42:06 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:42:06 [SEVERE] 	... 11 more
+14:43:38 [INFO] [capyBARA] <-> InitialHandler has connected
+14:43:38 [INFO] Player 'capyBARA' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:43:38 [INFO] Player 'capyBARA' [/127.0.0.1] is using an offline download
+14:43:38 [INFO] [capyBARA] <-> ServerConnector [lobby] has connected
+14:43:43 [INFO] [capyBARA] -> UpstreamBridge has disconnected
+14:43:43 [INFO] [capyBARA] <-> DownstreamBridge <-> [lobby] has disconnected
+14:44:47 [INFO] §a[EaglerMOTD] Loaded 2 messages for 0.0.0.0:25565
+14:44:47 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:45:20 [INFO] [capyBARA] <-> InitialHandler has connected
+14:45:20 [INFO] Player 'capyBARA' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:45:20 [INFO] Player 'capyBARA' [/127.0.0.1] is using an offline download
+14:45:20 [INFO] [capyBARA] <-> ServerConnector [lobby] has connected
+14:45:37 [INFO] [capyBARA] -> UpstreamBridge has disconnected
+14:45:37 [INFO] [capyBARA] <-> DownstreamBridge <-> [lobby] has disconnected
+14:49:57 [INFO] §a[EaglerMOTD] Loaded 2 messages for 0.0.0.0:25565
+14:49:57 [INFO] §a[EaglerMOTD] Loaded 6 query types
+14:56:46 [SEVERE] java.net.SocketException: Connection reset
+14:56:46 [SEVERE] 	at java.base/java.net.SocketInputStream.read(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/java.net.SocketInputStream.read(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:56:46 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:56:46 [SEVERE] 	at net.md_5.bungee.BungeeCord$3.run(BungeeCord.java:272)
+14:56:46 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Unknown Source)
+14:56:46 [SEVERE] 	at java.base/java.util.TimerThread.run(Unknown Source)
+14:58:45 [INFO] §a[EaglerMOTD] Loaded 2 messages for 0.0.0.0:25565
+14:58:45 [INFO] §a[EaglerMOTD] Loaded 6 query types
+19:09:38 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+19:09:38 [SEVERE] java.net.UnknownHostException: g.lax1dude.net
+19:09:38 [SEVERE] 	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/java.net.Socket.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.NetworkClient.doConnect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.New(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+19:09:38 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+19:09:38 [SEVERE] 	at net.md_5.bungee.BungeeCord$3.run(BungeeCord.java:272)
+19:09:38 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/java.util.TimerThread.run(Unknown Source)
+19:09:38 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+19:09:38 [SEVERE] java.net.UnknownHostException: raw.githubusercontent.com
+19:09:38 [SEVERE] 	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/java.net.Socket.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.NetworkClient.doConnect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.New(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+19:09:38 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+19:09:38 [SEVERE] 	at net.md_5.bungee.BungeeCord$3.run(BungeeCord.java:272)
+19:09:38 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Unknown Source)
+19:09:38 [SEVERE] 	at java.base/java.util.TimerThread.run(Unknown Source)
+13:44:58 [SEVERE] the blacklist subscription URL 'https://g.lax1dude.net/eaglercraft/origin_blacklist.txt' is invalid
+13:44:58 [SEVERE] java.net.UnknownHostException: g.lax1dude.net
+13:44:58 [SEVERE] 	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/java.net.Socket.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.NetworkClient.doConnect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.New(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+13:44:58 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+13:44:58 [SEVERE] 	at net.md_5.bungee.BungeeCord$3.run(BungeeCord.java:272)
+13:44:58 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/java.util.TimerThread.run(Unknown Source)
+13:44:58 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+13:44:58 [SEVERE] java.net.UnknownHostException: raw.githubusercontent.com
+13:44:58 [SEVERE] 	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/java.net.Socket.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.NetworkClient.doConnect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.New(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+13:44:58 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+13:44:58 [SEVERE] 	at net.md_5.bungee.BungeeCord$3.run(BungeeCord.java:272)
+13:44:58 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Unknown Source)
+13:44:58 [SEVERE] 	at java.base/java.util.TimerThread.run(Unknown Source)
+13:47:37 [INFO] [capyBARA] <-> InitialHandler has connected
+13:47:37 [INFO] Player 'capyBARA' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:47:37 [INFO] Player 'capyBARA' [/127.0.0.1] is using an offline download
+13:47:38 [INFO] [capyBARA] <-> ServerConnector [lobby] has connected
+13:47:42 [INFO] [capyBARA] -> UpstreamBridge has disconnected
+13:47:42 [INFO] [capyBARA] <-> DownstreamBridge <-> [lobby] has disconnected
+13:54:33 [INFO] [capyBARA] <-> InitialHandler has connected
+13:54:33 [INFO] Player 'capyBARA' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:54:33 [INFO] Player 'capyBARA' [/127.0.0.1] is using an offline download
+13:54:33 [INFO] [capyBARA] <-> ServerConnector [lobby] has connected
+14:00:06 [SEVERE] java.net.SocketException: Connection reset
+14:00:06 [SEVERE] 	at java.base/java.net.SocketInputStream.read(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/java.net.SocketInputStream.read(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:00:06 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:00:06 [SEVERE] 	at net.md_5.bungee.BungeeCord$3.run(BungeeCord.java:272)
+14:00:06 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Unknown Source)
+14:00:06 [SEVERE] 	at java.base/java.util.TimerThread.run(Unknown Source)
+14:01:21 [INFO] [capyBARA] disconnected with: [Proxy] Lost connection to server.
+14:01:21 [INFO] [capyBARA] <-> DownstreamBridge <-> [lobby] has disconnected
+14:01:21 [INFO] [capyBARA] -> UpstreamBridge has disconnected
+14:03:30 [INFO] [capyBARA] <-> InitialHandler has connected
+14:03:30 [INFO] Player 'capyBARA' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:03:30 [INFO] Player 'capyBARA' [/127.0.0.1] is using an offline download
+14:03:30 [INFO] [capyBARA] <-> ServerConnector [lobby] has connected
+14:03:42 [INFO] [capyBARA] -> UpstreamBridge has disconnected
+14:03:42 [INFO] [capyBARA] <-> DownstreamBridge <-> [lobby] has disconnected
+14:15:16 [SEVERE] java.net.SocketException: Connection reset
+14:15:16 [SEVERE] 	at java.base/java.net.SocketInputStream.read(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/java.net.SocketInputStream.read(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.security.ssl.SSLTransport.decode(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+14:15:16 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:152)
+14:15:16 [SEVERE] 	at net.md_5.bungee.BungeeCord$3.run(BungeeCord.java:272)
+14:15:16 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Unknown Source)
+14:15:16 [SEVERE] 	at java.base/java.util.TimerThread.run(Unknown Source)
+14:37:55 [INFO] [capyBARA] <-> InitialHandler has connected
+14:37:55 [INFO] Player 'capyBARA' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:37:55 [INFO] Player 'capyBARA' [/127.0.0.1] is using an offline download
+14:37:55 [INFO] [capyBARA] <-> ServerConnector [lobby] has connected
+14:39:21 [INFO] [capyBARA] -> UpstreamBridge has disconnected
+14:39:21 [INFO] [capyBARA] <-> DownstreamBridge <-> [lobby] has disconnected

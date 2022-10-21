@@ -1,0 +1,434 @@
+2022-10-20 13:49:10 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 13:49:10 [INFO] Loading properties
+2022-10-20 13:49:10 [INFO] Default game type: SURVIVAL
+2022-10-20 13:49:10 [INFO] Generating keypair
+2022-10-20 13:49:10 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 13:49:10 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 13:49:11 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2022-10-20 13:49:11 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2022-10-20 13:49:11 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 13:49:11 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 13:49:11 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 13:49:11 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 13:49:11 [INFO] Preparing level "world"
+2022-10-20 13:49:11 [INFO] Preparing start region for level 0 (Seed: -1209559824259502246)
+2022-10-20 13:49:12 [INFO] Preparing spawn area: 12%
+2022-10-20 13:49:13 [INFO] Preparing spawn area: 37%
+2022-10-20 13:49:14 [INFO] Preparing spawn area: 62%
+2022-10-20 13:49:15 [INFO] Preparing spawn area: 91%
+2022-10-20 13:49:15 [INFO] Preparing start region for level 1 (Seed: -1209559824259502246)
+2022-10-20 13:49:16 [INFO] Preparing spawn area: 12%
+2022-10-20 13:49:17 [INFO] Preparing spawn area: 49%
+2022-10-20 13:49:18 [INFO] Preparing spawn area: 83%
+2022-10-20 13:49:18 [INFO] Preparing start region for level 2 (Seed: -1209559824259502246)
+2022-10-20 13:49:19 [INFO] Preparing spawn area: 24%
+2022-10-20 13:49:20 [INFO] Preparing spawn area: 99%
+2022-10-20 13:49:20 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 13:49:20 [INFO] Done (9.322s)! For help, type "help" or "?"
+2022-10-20 13:49:20 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 13:49:20 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 13:49:31 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 13:49:51 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 13:51:21 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 13:51:21 [INFO] Loading properties
+2022-10-20 13:51:21 [INFO] Default game type: SURVIVAL
+2022-10-20 13:51:21 [INFO] Generating keypair
+2022-10-20 13:51:22 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 13:51:22 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 13:51:22 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 13:51:22 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 13:51:22 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 13:51:22 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 13:51:22 [INFO] Preparing level "world"
+2022-10-20 13:51:23 [INFO] Preparing start region for level 0 (Seed: 957534084961485139)
+2022-10-20 13:51:24 [INFO] Preparing spawn area: 4%
+2022-10-20 13:51:25 [INFO] Preparing spawn area: 33%
+2022-10-20 13:51:26 [INFO] Preparing spawn area: 41%
+2022-10-20 13:51:27 [INFO] Preparing spawn area: 53%
+2022-10-20 13:51:28 [INFO] Preparing spawn area: 62%
+2022-10-20 13:51:29 [INFO] Preparing spawn area: 83%
+2022-10-20 13:51:29 [INFO] Preparing start region for level 1 (Seed: 957534084961485139)
+2022-10-20 13:51:30 [INFO] Preparing spawn area: 87%
+2022-10-20 13:51:30 [INFO] Preparing start region for level 2 (Seed: 957534084961485139)
+2022-10-20 13:51:30 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 13:51:30 [INFO] Done (7.570s)! For help, type "help" or "?"
+2022-10-20 13:51:30 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 13:51:30 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 13:51:41 [INFO] EaglYeeler66[/127.0.0.1:63683] logged in with entity id 2445 at ([world] 228.5, 70.0, 265.5)
+2022-10-20 13:51:42 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 13:51:58 [INFO] Connection reset
+2022-10-20 13:51:58 [INFO] EaglYeeler66 lost connection: disconnect.quitting
+2022-10-20 13:52:02 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 13:52:58 [INFO] EaglYeeler66[/127.0.0.1:60207] logged in with entity id 3101 at ([world] 228.5, 70.0, 265.5)
+2022-10-20 13:54:49 [INFO] Connection reset
+2022-10-20 13:54:49 [INFO] EaglYeeler66 lost connection: disconnect.quitting
+2022-10-20 13:55:26 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 13:55:26 [INFO] Loading properties
+2022-10-20 13:55:26 [INFO] Default game type: SURVIVAL
+2022-10-20 13:55:26 [INFO] Generating keypair
+2022-10-20 13:55:26 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 13:55:27 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 13:55:27 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 13:55:27 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 13:55:27 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 13:55:27 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 13:55:27 [INFO] Preparing level "world"
+2022-10-20 13:55:27 [INFO] Preparing start region for level 0 (Seed: -3056402442522770416)
+2022-10-20 13:55:28 [INFO] Preparing spawn area: 4%
+2022-10-20 13:55:30 [INFO] Preparing spawn area: 8%
+2022-10-20 13:55:31 [INFO] Preparing spawn area: 12%
+2022-10-20 13:55:32 [INFO] Preparing spawn area: 16%
+2022-10-20 13:55:33 [INFO] Preparing spawn area: 29%
+2022-10-20 13:55:34 [INFO] Preparing spawn area: 41%
+2022-10-20 13:55:35 [INFO] Preparing spawn area: 49%
+2022-10-20 13:55:36 [INFO] Preparing spawn area: 62%
+2022-10-20 13:55:37 [INFO] Preparing spawn area: 70%
+2022-10-20 13:55:38 [INFO] Preparing spawn area: 78%
+2022-10-20 13:55:39 [INFO] Preparing spawn area: 91%
+2022-10-20 13:55:39 [INFO] Preparing start region for level 1 (Seed: -3056402442522770416)
+2022-10-20 13:55:40 [INFO] Preparing spawn area: 49%
+2022-10-20 13:55:40 [INFO] Preparing start region for level 2 (Seed: -3056402442522770416)
+2022-10-20 13:55:40 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 13:55:40 [INFO] Done (13.353s)! For help, type "help" or "?"
+2022-10-20 13:55:40 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 13:55:40 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 13:55:47 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 13:56:07 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 13:58:27 [INFO] Unknown command. Type "help" for help.[m
+2022-10-20 13:59:19 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 13:59:19 [INFO] Loading properties
+2022-10-20 13:59:19 [INFO] Default game type: SURVIVAL
+2022-10-20 13:59:19 [INFO] Generating keypair
+2022-10-20 13:59:20 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 13:59:20 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 13:59:20 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 13:59:20 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 13:59:20 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 13:59:20 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 13:59:20 [INFO] Preparing level "world"
+2022-10-20 13:59:20 [INFO] Preparing start region for level 0 (Seed: -8225189190142533241)
+2022-10-20 13:59:21 [INFO] Preparing spawn area: 4%
+2022-10-20 13:59:23 [INFO] Preparing spawn area: 20%
+2022-10-20 13:59:24 [INFO] Preparing spawn area: 45%
+2022-10-20 13:59:25 [INFO] Preparing spawn area: 58%
+2022-10-20 13:59:26 [INFO] Preparing spawn area: 78%
+2022-10-20 13:59:27 [INFO] Preparing spawn area: 95%
+2022-10-20 13:59:27 [INFO] Preparing start region for level 1 (Seed: -8225189190142533241)
+2022-10-20 13:59:27 [INFO] Preparing start region for level 2 (Seed: -8225189190142533241)
+2022-10-20 13:59:28 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 13:59:28 [INFO] Done (7.487s)! For help, type "help" or "?"
+2022-10-20 13:59:28 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 13:59:28 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 13:59:40 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:00:00 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:07:48 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:07:48 [INFO] Loading properties
+2022-10-20 14:07:48 [INFO] Default game type: SURVIVAL
+2022-10-20 14:07:48 [INFO] Generating keypair
+2022-10-20 14:07:48 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:07:48 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:07:49 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:07:49 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:07:49 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:07:49 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:07:49 [INFO] Preparing level "world"
+2022-10-20 14:07:49 [INFO] Preparing start region for level 0 (Seed: 2811032800175275065)
+2022-10-20 14:07:50 [INFO] Preparing spawn area: 41%
+2022-10-20 14:07:51 [INFO] Preparing spawn area: 54%
+2022-10-20 14:07:52 [INFO] Preparing spawn area: 62%
+2022-10-20 14:07:53 [INFO] Preparing spawn area: 79%
+2022-10-20 14:07:54 [INFO] Preparing start region for level 1 (Seed: 2811032800175275065)
+2022-10-20 14:07:54 [INFO] Preparing spawn area: 20%
+2022-10-20 14:07:55 [INFO] Preparing start region for level 2 (Seed: 2811032800175275065)
+2022-10-20 14:07:55 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:07:55 [INFO] Done (6.345s)! For help, type "help" or "?"
+2022-10-20 14:07:55 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:07:55 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:08:09 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:08:29 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:13:04 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:13:04 [INFO] Loading properties
+2022-10-20 14:13:04 [INFO] Default game type: SURVIVAL
+2022-10-20 14:13:04 [INFO] Generating keypair
+2022-10-20 14:13:04 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:13:05 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:13:05 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:13:05 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:13:05 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:13:05 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:13:05 [INFO] Preparing level "world"
+2022-10-20 14:13:05 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:13:05 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:13:05 [INFO] Preparing start region for level 0 (Seed: 8072768011834336520)
+2022-10-20 14:13:06 [INFO] Preparing spawn area: 4%
+2022-10-20 14:13:07 [INFO] Preparing spawn area: 12%
+2022-10-20 14:13:08 [INFO] Preparing spawn area: 20%
+2022-10-20 14:13:09 [INFO] Preparing spawn area: 33%
+2022-10-20 14:13:10 [INFO] Preparing spawn area: 45%
+2022-10-20 14:13:11 [INFO] Preparing spawn area: 58%
+2022-10-20 14:13:12 [INFO] Preparing spawn area: 99%
+2022-10-20 14:13:12 [INFO] Preparing start region for level 1 (Seed: 8072768011834336520)
+2022-10-20 14:13:13 [INFO] Preparing start region for level 2 (Seed: 8072768011834336520)
+2022-10-20 14:13:13 [INFO] Preparing spawn area: 54%
+2022-10-20 14:13:13 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:13:13 [INFO] Done (8.462s)! For help, type "help" or "?"
+2022-10-20 14:13:13 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:13:13 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:14:19 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:14:19 [INFO] Loading properties
+2022-10-20 14:14:19 [INFO] Default game type: SURVIVAL
+2022-10-20 14:14:19 [INFO] Generating keypair
+2022-10-20 14:14:19 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:14:20 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:14:20 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:14:20 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:14:20 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:14:20 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:14:20 [INFO] Preparing level "world"
+2022-10-20 14:14:20 [INFO] Preparing start region for level 0 (Seed: 4287130849197516058)
+2022-10-20 14:14:21 [INFO] Preparing spawn area: 37%
+2022-10-20 14:14:22 [INFO] Preparing spawn area: 45%
+2022-10-20 14:14:23 [INFO] Preparing spawn area: 58%
+2022-10-20 14:14:24 [INFO] Preparing spawn area: 74%
+2022-10-20 14:14:24 [INFO] Preparing start region for level 1 (Seed: 4287130849197516058)
+2022-10-20 14:14:25 [INFO] Preparing start region for level 2 (Seed: 4287130849197516058)
+2022-10-20 14:14:25 [INFO] Preparing spawn area: 58%
+2022-10-20 14:14:25 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:14:25 [INFO] Done (5.379s)! For help, type "help" or "?"
+2022-10-20 14:14:25 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:14:25 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:14:40 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:15:00 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:19:08 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:19:08 [INFO] Loading properties
+2022-10-20 14:19:08 [INFO] Default game type: SURVIVAL
+2022-10-20 14:19:08 [INFO] Generating keypair
+2022-10-20 14:19:08 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:19:09 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:19:09 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:19:09 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:19:09 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:19:09 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:19:09 [INFO] Preparing level "world"
+2022-10-20 14:19:09 [INFO] Preparing start region for level 0 (Seed: -7628142152275724950)
+2022-10-20 14:19:10 [INFO] Preparing spawn area: 4%
+2022-10-20 14:19:11 [INFO] Preparing spawn area: 8%
+2022-10-20 14:19:12 [INFO] Preparing spawn area: 16%
+2022-10-20 14:19:13 [INFO] Preparing spawn area: 24%
+2022-10-20 14:19:14 [INFO] Preparing spawn area: 37%
+2022-10-20 14:19:15 [INFO] Preparing spawn area: 45%
+2022-10-20 14:19:16 [INFO] Preparing spawn area: 66%
+2022-10-20 14:19:17 [INFO] Preparing spawn area: 74%
+2022-10-20 14:19:18 [INFO] Preparing spawn area: 91%
+2022-10-20 14:19:19 [INFO] Preparing start region for level 1 (Seed: -7628142152275724950)
+2022-10-20 14:19:19 [INFO] Preparing spawn area: 91%
+2022-10-20 14:19:19 [INFO] Preparing start region for level 2 (Seed: -7628142152275724950)
+2022-10-20 14:19:20 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:19:20 [INFO] Done (10.786s)! For help, type "help" or "?"
+2022-10-20 14:19:20 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:19:20 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:19:29 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:19:49 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:21:01 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:21:01 [INFO] Loading properties
+2022-10-20 14:21:01 [INFO] Default game type: SURVIVAL
+2022-10-20 14:21:01 [INFO] Generating keypair
+2022-10-20 14:21:01 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:21:01 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:21:02 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:21:02 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:21:02 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:21:02 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:21:02 [INFO] Preparing level "world"
+2022-10-20 14:21:02 [INFO] Preparing start region for level 0 (Seed: -4778306560753506193)
+2022-10-20 14:21:03 [INFO] Preparing spawn area: 8%
+2022-10-20 14:21:04 [INFO] Preparing spawn area: 45%
+2022-10-20 14:21:05 [INFO] Preparing spawn area: 53%
+2022-10-20 14:21:06 [INFO] Preparing spawn area: 66%
+2022-10-20 14:21:07 [INFO] Preparing spawn area: 87%
+2022-10-20 14:21:07 [INFO] Preparing start region for level 1 (Seed: -4778306560753506193)
+2022-10-20 14:21:08 [INFO] Preparing start region for level 2 (Seed: -4778306560753506193)
+2022-10-20 14:21:08 [INFO] Preparing spawn area: 49%
+2022-10-20 14:21:08 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:21:08 [INFO] Done (6.638s)! For help, type "help" or "?"
+2022-10-20 14:21:08 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:21:08 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:21:22 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:21:42 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:27:44 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:27:44 [INFO] Loading properties
+2022-10-20 14:27:44 [INFO] Default game type: SURVIVAL
+2022-10-20 14:27:44 [INFO] Generating keypair
+2022-10-20 14:27:44 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:27:45 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:27:45 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:27:45 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:27:45 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:27:45 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:27:45 [INFO] Preparing level "world"
+2022-10-20 14:27:45 [INFO] Preparing start region for level 0 (Seed: 8638376626649658453)
+2022-10-20 14:27:46 [INFO] Preparing spawn area: 37%
+2022-10-20 14:27:47 [INFO] Preparing spawn area: 45%
+2022-10-20 14:27:48 [INFO] Preparing spawn area: 58%
+2022-10-20 14:27:49 [INFO] Preparing spawn area: 70%
+2022-10-20 14:27:50 [INFO] Preparing start region for level 1 (Seed: 8638376626649658453)
+2022-10-20 14:27:50 [INFO] Preparing spawn area: 58%
+2022-10-20 14:27:51 [INFO] Preparing start region for level 2 (Seed: 8638376626649658453)
+2022-10-20 14:27:51 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:27:51 [INFO] Done (5.891s)! For help, type "help" or "?"
+2022-10-20 14:27:51 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:27:51 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:28:05 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:28:25 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:29:46 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:29:46 [INFO] Loading properties
+2022-10-20 14:29:46 [INFO] Default game type: SURVIVAL
+2022-10-20 14:29:46 [INFO] Generating keypair
+2022-10-20 14:29:46 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:29:47 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:29:47 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:29:47 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:29:47 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:29:47 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:29:47 [INFO] Preparing level "world"
+2022-10-20 14:29:47 [WARNING] Unable to find spawn biome
+2022-10-20 14:29:47 [INFO] Preparing start region for level 0 (Seed: 3008220367782619106)
+2022-10-20 14:29:48 [INFO] Preparing spawn area: 4%
+2022-10-20 14:29:49 [INFO] Preparing spawn area: 20%
+2022-10-20 14:29:50 [INFO] Preparing spawn area: 45%
+2022-10-20 14:29:51 [INFO] Preparing spawn area: 66%
+2022-10-20 14:29:52 [INFO] Preparing spawn area: 78%
+2022-10-20 14:29:53 [INFO] Preparing spawn area: 87%
+2022-10-20 14:29:54 [INFO] Preparing start region for level 1 (Seed: 3008220367782619106)
+2022-10-20 14:29:54 [INFO] Preparing spawn area: 8%
+2022-10-20 14:29:55 [INFO] Preparing start region for level 2 (Seed: 3008220367782619106)
+2022-10-20 14:29:55 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:29:55 [INFO] Done (8.293s)! For help, type "help" or "?"
+2022-10-20 14:29:55 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:29:55 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:29:58 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:30:18 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:30:49 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:30:49 [INFO] Loading properties
+2022-10-20 14:30:49 [INFO] Default game type: SURVIVAL
+2022-10-20 14:30:49 [INFO] Generating keypair
+2022-10-20 14:30:49 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:30:50 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:30:50 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:30:50 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:30:50 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:30:50 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:30:50 [INFO] Preparing level "world"
+2022-10-20 14:30:50 [INFO] Preparing start region for level 0 (Seed: -1289821473949386483)
+2022-10-20 14:30:51 [INFO] Preparing spawn area: 8%
+2022-10-20 14:30:52 [INFO] Preparing spawn area: 16%
+2022-10-20 14:30:53 [INFO] Preparing spawn area: 29%
+2022-10-20 14:30:54 [INFO] Preparing spawn area: 49%
+2022-10-20 14:30:55 [INFO] Preparing spawn area: 79%
+2022-10-20 14:30:55 [INFO] Preparing start region for level 1 (Seed: -1289821473949386483)
+2022-10-20 14:30:56 [INFO] Preparing start region for level 2 (Seed: -1289821473949386483)
+2022-10-20 14:30:56 [INFO] Preparing spawn area: 45%
+2022-10-20 14:30:56 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:30:56 [INFO] Done (6.582s)! For help, type "help" or "?"
+2022-10-20 14:30:56 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:30:56 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:31:10 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:31:30 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:32:02 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:32:02 [INFO] Loading properties
+2022-10-20 14:32:02 [INFO] Default game type: SURVIVAL
+2022-10-20 14:32:02 [INFO] Generating keypair
+2022-10-20 14:32:02 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:32:02 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:32:03 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:32:03 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:32:03 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:32:03 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:32:03 [INFO] Preparing level "world"
+2022-10-20 14:32:03 [INFO] Preparing start region for level 0 (Seed: 4083787001711465015)
+2022-10-20 14:32:04 [INFO] Preparing spawn area: 24%
+2022-10-20 14:32:05 [INFO] Preparing spawn area: 49%
+2022-10-20 14:32:06 [INFO] Preparing spawn area: 87%
+2022-10-20 14:32:06 [INFO] Preparing start region for level 1 (Seed: 4083787001711465015)
+2022-10-20 14:32:07 [INFO] Preparing start region for level 2 (Seed: 4083787001711465015)
+2022-10-20 14:32:07 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:32:07 [INFO] Done (4.177s)! For help, type "help" or "?"
+2022-10-20 14:32:07 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:32:07 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:32:23 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:32:43 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:34:20 [INFO] EaglYeeler66[/127.0.0.1:50077] logged in with entity id 1438 at ([world] 224.03055402440208, 71.0, 261.0026705206979)
+2022-10-20 14:35:02 [INFO] Connection reset
+2022-10-20 14:35:02 [INFO] EaglYeeler66 lost connection: disconnect.quitting
+2022-10-20 14:36:47 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:36:47 [INFO] Loading properties
+2022-10-20 14:36:47 [INFO] Default game type: SURVIVAL
+2022-10-20 14:36:47 [INFO] Generating keypair
+2022-10-20 14:36:47 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:36:47 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:36:47 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:36:47 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:36:47 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:36:47 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:36:47 [INFO] Preparing level "world"
+2022-10-20 14:36:48 [INFO] Preparing start region for level 0 (Seed: -3363971270441514154)
+2022-10-20 14:36:49 [INFO] Preparing spawn area: 20%
+2022-10-20 14:36:50 [INFO] Preparing spawn area: 45%
+2022-10-20 14:36:51 [INFO] Preparing spawn area: 70%
+2022-10-20 14:36:52 [INFO] Preparing spawn area: 91%
+2022-10-20 14:36:52 [INFO] Preparing start region for level 1 (Seed: -3363971270441514154)
+2022-10-20 14:36:53 [INFO] Preparing spawn area: 87%
+2022-10-20 14:36:53 [INFO] Preparing start region for level 2 (Seed: -3363971270441514154)
+2022-10-20 14:36:53 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:36:53 [INFO] Done (5.810s)! For help, type "help" or "?"
+2022-10-20 14:36:53 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:36:53 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:37:08 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:37:28 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:40:11 [INFO] capyBARA[/127.0.0.1:52521] logged in with entity id 1476 at ([world] -236.5, 77.0, 187.5)
+2022-10-20 14:40:52 [INFO] Connection reset
+2022-10-20 14:40:52 [INFO] capyBARA lost connection: disconnect.quitting
+2022-10-20 14:41:48 [INFO] Starting minecraft server version 1.5.2
+2022-10-20 14:41:48 [INFO] Loading properties
+2022-10-20 14:41:48 [INFO] Default game type: SURVIVAL
+2022-10-20 14:41:48 [INFO] Generating keypair
+2022-10-20 14:41:49 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-20 14:41:49 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-20 14:41:49 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-20 14:41:49 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-20 14:41:49 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-20 14:41:49 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-20 14:41:49 [INFO] Preparing level "world"
+2022-10-20 14:41:49 [INFO] Preparing start region for level 0 (Seed: -235425269518310532)
+2022-10-20 14:41:50 [INFO] Preparing spawn area: 12%
+2022-10-20 14:41:51 [INFO] Preparing spawn area: 29%
+2022-10-20 14:41:52 [INFO] Preparing spawn area: 53%
+2022-10-20 14:41:53 [INFO] Preparing start region for level 1 (Seed: -235425269518310532)
+2022-10-20 14:41:53 [INFO] Preparing spawn area: 0%
+2022-10-20 14:41:54 [INFO] Preparing start region for level 2 (Seed: -235425269518310532)
+2022-10-20 14:41:54 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-20 14:41:54 [INFO] Done (5.046s)! For help, type "help" or "?"
+2022-10-20 14:41:54 [INFO] Crash Loop Detector is Running! (30sec)
+2022-10-20 14:41:54 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+2022-10-20 14:42:09 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: SocketException
+2022-10-20 14:42:29 [WARNING] Could not get latest artifact information: SocketException
+2022-10-20 14:43:38 [INFO] capyBARA[/127.0.0.1:52622] logged in with entity id 1239 at ([world] -236.5, 77.0, 187.5)
+2022-10-20 14:43:43 [INFO] capyBARA lost connection: disconnect.quitting
+2022-10-20 14:43:43 [INFO] Connection reset
+2022-10-20 14:45:20 [INFO] capyBARA[/127.0.0.1:49794] logged in with entity id 1925 at ([world] -236.5, 77.0, 187.5)
+2022-10-20 14:45:37 [INFO] capyBARA lost connection: disconnect.quitting
+2022-10-20 14:45:37 [INFO] Connection reset
+2022-10-20 19:09:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2022-10-21 13:44:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2022-10-21 13:47:38 [INFO] capyBARA[/127.0.0.1:59574] logged in with entity id 2394 at ([world] -238.69999998807907, 77.0, 180.30000001192093)
+2022-10-21 13:47:42 [INFO] Connection reset
+2022-10-21 13:47:42 [INFO] capyBARA lost connection: disconnect.quitting
+2022-10-21 13:54:33 [INFO] capyBARA[/127.0.0.1:53535] logged in with entity id 2583 at ([world] -238.69999998807907, 77.0, 180.30000001192093)
+2022-10-21 14:01:21 [INFO] Read timed out
+2022-10-21 14:01:21 [INFO] capyBARA lost connection: disconnect.endOfStream
+2022-10-21 14:03:30 [INFO] capyBARA[/127.0.0.1:59718] logged in with entity id 6498 at ([world] -228.01905830603786, 65.0, 167.53645109116994)
+2022-10-21 14:03:42 [INFO] Connection reset
+2022-10-21 14:03:42 [INFO] capyBARA lost connection: disconnect.quitting
+2022-10-21 14:37:56 [INFO] capyBARA[/127.0.0.1:57761] logged in with entity id 6769 at ([world] -228.01905830603786, 65.0, 167.53645109116994)
+2022-10-21 14:39:21 [INFO] Connection reset
+2022-10-21 14:39:21 [INFO] capyBARA lost connection: disconnect.quitting
